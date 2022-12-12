@@ -5,4 +5,4 @@ OpenBB Example Reports (good papermill example)
   - ETF Report for SPY, QQQ, IWM
   - Equity Report for AAPL
 ## Source 
-[**Open BB Terminal {openbb)**](https://github.com/OpenBB-finance/OpenBBTerminal)
+[**Open BB Terminal (openbb)**](https://github.com/OpenBB-finance/OpenBBTerminal)
