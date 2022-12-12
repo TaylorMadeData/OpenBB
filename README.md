@@ -4,4 +4,4 @@ OpenBB Example Reports (good papermill example)
 --- Economy Report
 --- ETF Report for SPY, QQQ, IWM
 ## Source 
-[**Open BB Terminal (openbb)**(https://github.com/OpenBB-finance/OpenBBTerminal)
+[**Open BB Terminal {openbb)**](https://github.com/OpenBB-finance/OpenBBTerminal)
